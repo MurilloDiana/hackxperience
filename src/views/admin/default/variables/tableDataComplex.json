@@ -1,0 +1,26 @@
+[
+  {
+    "name":"Egresos Operativos",
+    "status": "Approved",
+    "date": "18 Apr 2023",
+    "progress": 75.5  
+  },
+  {
+    "name":"Costos por Servicio",
+    "status": "Disable",
+    "date": "18 Apr 2023",
+    "progress": 25.5  
+  },
+  {
+    "name":"Egresos por publicidad",
+    "status": "Error",
+    "date": "20 May 2023",
+    "progress": 90  
+  },
+  {
+    "name":"Egresos Financieros",
+    "status": "Approved",
+    "date": "12 Jul 2023",
+    "progress": 50.5  
+  }
+]
